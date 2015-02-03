@@ -1,4 +1,4 @@
-pw# PostgreSQLのテーブルをTRUNCATEしたいときに気をつけること
+# PostgreSQLのテーブルをTRUNCATEしたいときに気をつけること
 
 ## 結論
 
