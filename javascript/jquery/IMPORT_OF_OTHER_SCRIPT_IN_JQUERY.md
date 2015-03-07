@@ -1,7 +1,7 @@
 # jQueryをロード後に他のjsをimport
 
 jQueryをロードしたあとに、他のjsをimportしたい場合、
-($.getScript)[]を使うとよろしい。
+[$.getScript](http://api.jquery.com/jquery.getscript/)を使うとよろしい。
 
 ```javascript
 (function (){
